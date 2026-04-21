@@ -1,0 +1,8 @@
+venv/
+checkpoints/sweep/*_best.pt
+checkpoints/sweep/*_final.pt
+checkpoints/dqn_default_final.pt
+checkpoints/dqn_default_videos/
+submission/
+__pycache__/
+*.pyc
